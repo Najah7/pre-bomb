@@ -2,6 +2,7 @@
 
 
 ## [発表スライドURL](https://docs.google.com/presentation/d/16Cle5NGGVYQNIHfRVSgniUdI2pQtG6Z59-1OQqZDZFM/edit?usp=sharing)
+※👆上記のスライドの最後に軽いデモ映像も載ってます
 <br />
 
 ## 目的
@@ -64,6 +65,8 @@
     - Flask
 - サーバー(ラインとやり取りするための)
     - Python Anywhere
+- Web API
+    - LINE Messaging API
 
 ※期間と労力の関係でLINEを叩くためのサーバーをPythonで用意した。
 　そして、Python Anywhereを使ったのは、無料だから。
