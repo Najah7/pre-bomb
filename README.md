@@ -1,7 +1,7 @@
 # pre_bomb (事前爆弾)
 
 
-## [発表スライドURL](https://docs.google.com/presentation/d/16Cle5NGGVYQNIHfRVSgniUdI2pQtG6Z59-1OQqZDZFM/edit?usp=sharing)
+## [スライドURL](https://docs.google.com/presentation/d/1TrQmSFgt415INbNGA6b1ohA_Z9aozDn5EHANlf1Tas4/edit?usp=sharing)
 ※👆上記のスライドの最後に軽いデモ映像も載ってます
 <br />
 
